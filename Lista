@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Minha Lista de Interesses</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 20px;
+        }
+        h1 {
+            text-align: center;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        li {
+            background: #fff;
+            margin: 10px 0;
+            padding: 15px;
+            border-radius: 5px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+        a {
+            text-decoration: none;
+            color: #007bff;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Minha Lista de Interesses (Filmes) </h1>
+    <ul>
+        <li><a href="https://youtu.be/yAZxx8t9zig?feature=shared" target="_blank">Divertidamente 2</a></li>
+        <li><a href="https://youtu.be/seSIJf5mhPE?feature=shared" target="_blank">Meu Malvado Favorito 4</a></li>
+        <li><a href="https://youtu.be/kk1xSOIk6po?feature=shared" target="_blank">FormiguinhaZ</a></li>
+        <li><a href="https://youtu.be/55D_3uaKXYE?feature=shared" target="_blank">Garfield</a></li>
+        <li><a href="https://youtu.be/o3dbeI0BU1k?feature=shared" target="_blank">Scooby Doo</a></li>
+    </ul>
+
+</body>
+</html>
